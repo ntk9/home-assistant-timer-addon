@@ -1,0 +1,12 @@
+{
+  "name": "Timer Add-on",
+  "version": "1.0",
+  "slug": "timer_addon",
+  "description": "A simple timer add-on for Home Assistant",
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "host_network": true
+}
